@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "StyleHaven - Modern E-commerce",
+  title: "PixelConquest - Modern E-commerce",
   description: "A modern e-commerce platform built with Next.js",
 };
 

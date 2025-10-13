@@ -1,6 +1,6 @@
-# StyleHaven - Modern E-commerce Platform
+# PixelConquest - Modern E-commerce Platform
 
-StyleHaven is a modern, responsive e-commerce platform built with Next.js, TypeScript, and Tailwind CSS. It's designed to showcase fashion products with a clean, intuitive user interface and smooth interactive elements. Perfect for anyone looking to launch a stylish online store quickly.
+PixelConquest is a modern, responsive e-commerce platform built with Next.js, TypeScript, and Tailwind CSS. It's designed to showcase fashion products with a clean, intuitive user interface and smooth interactive elements. Perfect for anyone looking to launch a stylish online store quickly.
 
 ## 🚀 Features
 
@@ -29,8 +29,8 @@ StyleHaven is a modern, responsive e-commerce platform built with Next.js, TypeS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ankit9241/StyleHaven.git
-   cd StyleHaven
+   git clone https://github.com/ankit9241/PixelConquest.git
+   cd PixelConquest
    ```
 
 2. Install dependencies:

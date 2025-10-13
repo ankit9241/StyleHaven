@@ -57,7 +57,7 @@ export default function Footer() {
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           <div className="space-y-8 xl:col-span-1
           ">
-            <h3 className="text-lg font-semibold text-gray-900">StyleHaven</h3>
+            <h3 className="text-lg font-semibold text-gray-900">PixelConquest</h3>
             <p className="text-gray-500 text-sm">
               Your ultimate destination for modern fashion that blends style and comfort seamlessly.
             </p>
@@ -136,7 +136,7 @@ export default function Footer() {
               <span className="text-sm text-gray-500">We accept all major credit cards</span>
             </div>
             <p className="mt-4 text-sm text-gray-500 md:mt-0">
-              &copy; {new Date().getFullYear()} ShopStyle. All rights reserved.
+              &copy; {new Date().getFullYear()} PixelConquest. All rights reserved.
             </p>
           </div>
         </div>
